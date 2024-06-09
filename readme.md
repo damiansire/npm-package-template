@@ -1,4 +1,4 @@
-# DateWizard 🧙‍♂️
+# YOUR_PACKAGE_NAME 🧙‍♂️
 
 YOUR_PACKAGE_SHORT_DESCRIPTION
 
